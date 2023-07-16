@@ -1,0 +1,9 @@
+E:\Desktop01_Tharuka\STDMANAGER\StudentManager\Desktop01\obj\Debug\net6.0-windows\StudentManager.csproj.AssemblyReference.cache
+E:\Desktop01_Tharuka\STDMANAGER\StudentManager\Desktop01\obj\Debug\net6.0-windows\View\AddUserWindow.g.cs
+E:\Desktop01_Tharuka\STDMANAGER\StudentManager\Desktop01\obj\Debug\net6.0-windows\View\LoginWindow.g.cs
+E:\Desktop01_Tharuka\STDMANAGER\StudentManager\Desktop01\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+E:\Desktop01_Tharuka\STDMANAGER\StudentManager\Desktop01\obj\Debug\net6.0-windows\App.g.cs
+E:\Desktop01_Tharuka\STDMANAGER\StudentManager\Desktop01\obj\Debug\net6.0-windows\StudentManagementSystem_Content.g.cs
+E:\Desktop01_Tharuka\STDMANAGER\StudentManager\Desktop01\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Desktop01_Tharuka\STDMANAGER\StudentManager\Desktop01\obj\Debug\net6.0-windows\StudentManagementSystem_MarkupCompile.cache
+E:\Desktop01_Tharuka\STDMANAGER\StudentManager\Desktop01\obj\Debug\net6.0-windows\StudentManagementSystem_MarkupCompile.lref

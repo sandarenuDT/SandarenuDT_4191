@@ -1,0 +1,86 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>False</UseWindowsForms>
+    <Title>StudentManagmentSystem</Title>
+    <Authors>Sandarenu D.T</Authors>
+    <Company>SandarenuDT</Company>
+    <AssemblyName>StudentManagementSystem</AssemblyName>
+    <RootNamespace>StudentManager</RootNamespace>
+    <PackageIcon>ico.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\bg.png" />
+    <None Remove="images\dp.png" />
+    <None Remove="images\LOGO_OF_RUHUNA.png" />
+    <None Remove="images\pp.jpeg" />
+    <None Remove="images\pp.png" />
+    <None Remove="Model\Images\1.png" />
+    <None Remove="Model\Images\2.png" />
+    <None Remove="Model\Images\4.png" />
+    <None Remove="Model\Images\ico.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Model\Images\ico.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\rasin\Downloads\ico.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\bg.png" />
+    <Resource Include="images\dp.png" />
+    <Resource Include="images\LOGO_OF_RUHUNA.png" />
+    <Resource Include="images\pp.jpeg" />
+    <Resource Include="images\pp.png" />
+    <Resource Include="Model\Images\1.png" />
+    <Resource Include="Model\Images\2.png" />
+    <Resource Include="Model\Images\3.png" />
+    <Resource Include="Model\Images\4.png" />
+    <Resource Include="Model\Images\ico.ico" />
+    <Resource Include="Model\Images\ico.png" />
+    <Resource Include="Model\Images\NoPic.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Model\Images\3.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="Model\Images\ico.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="Model\Images\NoPic.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
